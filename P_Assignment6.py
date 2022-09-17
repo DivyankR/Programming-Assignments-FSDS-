@@ -45,6 +45,7 @@ print(n)
 
 # Question 5
 
+
 def cbe(n):
 
     cube = 0
